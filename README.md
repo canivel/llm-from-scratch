@@ -11,13 +11,13 @@ Personal implementations and notes while working through LLM-related books. Each
 Covers the fundamentals of building a GPT-style LLM from the ground up.
 
 ### Book 2: Build a DeepSeek Model (From Scratch)
-**Author:** Sebastian Raschka
+**Author:** Raj Abhijit Dandekar, Rajat Dandekar, Sreedath Panat, Naman Dwivedi
 **Link:** [Manning](https://www.manning.com/books/build-a-deepseek-model-from-scratch)
 
 Explores modern LLM architectures including MoE (Mixture of Experts) and Multi-head Latent Attention.
 
 ### Book 3: The RLHF Book
-**Author:** Sebastian Raschka
+**Author:** Nathan Lambert
 **Link:** [Manning](https://www.manning.com/books/the-rlhf-book)
 
 Covers alignment techniques: RLHF, DPO, and other preference optimization methods.
