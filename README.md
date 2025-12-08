@@ -32,6 +32,6 @@ book3/   # RLHF and alignment code
 
 ## Progress
 
-- [ ] Book 1: Build a Large Language Model
+- [ ] Book 1: Build a Large Language Model (in progress) eta 2 weeks
 - [ ] Book 2: Build a DeepSeek Model
 - [ ] Book 3: The RLHF Book
