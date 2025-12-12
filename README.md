@@ -22,12 +22,19 @@ Explores modern LLM architectures including MoE (Mixture of Experts) and Multi-h
 
 Covers alignment techniques: RLHF, DPO, and other preference optimization methods.
 
+### Book 4: Build a Reasoning Model (From Scratch)
+**Author:** Sebastian Raschka
+**Link:** [Manning](https://www.manning.com/books/build-a-reasoning-model-from-scratch)
+
+Covers LLM reasoning.
+
 ## Structure
 
 ```
 book1/   # LLM from scratch implementations
 book2/   # DeepSeek model implementations
 book3/   # RLHF and alignment code
+book4/   # Build a Reasoning Model (From Scratch)
 ```
 
 ## Progress
